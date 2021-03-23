@@ -1,11 +1,11 @@
-name: hello
+name: helloworld
 base: core
 confinement: strict
 grade: stable
 
 version: "2.10"
 summary: GNU Hello
-description: GNU hello prints a friendly greeting.
+description: GNU hello prints a friendly greeting
 
 apps:
   hello:

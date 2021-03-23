@@ -1,4 +1,4 @@
-name: helloworld
+name: hello-world2jerryattheedge
 base: core
 confinement: strict
 grade: stable

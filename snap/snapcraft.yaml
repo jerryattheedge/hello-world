@@ -5,6 +5,9 @@ description: |
   This demo is intended to show how to build your first snap
   This code is part of the Snapcraft example tour at
   https://developer.ubuntu.com/snapcraft-getting-started
+architectures:
+  - build-on: amd64 
+    run-on: amd64 
 parts:
   hello:
     plugin: cmake

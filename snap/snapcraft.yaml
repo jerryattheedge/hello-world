@@ -12,9 +12,6 @@ parts:
   hello:
     plugin: cmake
 
-source:
-  hello.c
-
 
 build-packages:
 - g++

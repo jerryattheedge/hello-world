@@ -1,4 +1,4 @@
-name: hello-world2jerryattheedge
+name: hwjerryattheedge
 
 base: core
 confinement: strict

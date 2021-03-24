@@ -27,5 +27,5 @@ build-packages:
 
 apps:
   hello-world:
-    command: bin/hello
+    command: hello
     adapter: full

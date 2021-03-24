@@ -4,7 +4,7 @@ base: core
 confinement: strict
 grade: stable
 
-version: 0.3
+version: '0.3'
 summary: Hello World
 description: |
   This demo is intended to show how to build your first snap

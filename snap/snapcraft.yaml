@@ -1,4 +1,9 @@
 name: hello-world2jerryattheedge
+
+base: core
+confinement: strict
+grade: stable
+
 version: 0.1
 summary: Hello World
 description: |
@@ -19,6 +24,8 @@ build-packages:
 - git
 - sed
 
+
 apps:
   hello-world:
-    command: hello
+    command: bin/hello
+    adapter: full

@@ -15,7 +15,6 @@ parts:
 source:
   https://github.com/jerryattheedge/hello-world/blob/master/snap/hello.c
 
-build-packages: [g++, make, git, sed]
 
 build-packages:
 - g++

@@ -8,7 +8,7 @@ description: |
 parts:
   hello:
     plugin: cmake
-    source: src
+    
 
 apps:
   hello-world:

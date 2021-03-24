@@ -11,7 +11,7 @@ architectures:
 parts:
   hello:
     plugin: cmake
-    source: src
+    source: snap/src
 
 build-packages:
 - g++
